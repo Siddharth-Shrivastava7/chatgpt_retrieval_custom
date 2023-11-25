@@ -1,1 +1,3 @@
-My dog's name is Sunny.
+My first principle is Machine Learning.
+
+I did internships in Semiconductor-laboratory, Mohali and in IIT Bombay.
